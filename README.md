@@ -30,7 +30,6 @@ As mensagens também são exibidas no monitor serial.
 
 ![image](https://github.com/user-attachments/assets/603f5860-427c-4050-8314-49ef29701fa6)
 
-<sub>*Substitua pela imagem real do circuito no simulador*</sub>
 
 ---
 
@@ -58,7 +57,7 @@ Este projeto demonstra como é possível criar um sistema simples e eficiente pa
 ---
 
 
-Código Fonte 
+##  Código Fonte 
 
 // Definição dos pinos
 const int PIN_POTENCIOMETRO = A0;
