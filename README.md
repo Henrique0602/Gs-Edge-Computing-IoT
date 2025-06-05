@@ -58,7 +58,7 @@ Este projeto demonstra como é possível criar um sistema simples e eficiente pa
 
 
 ##  Código Fonte 
-
+---
 // Definição dos pinos
 const int PIN_POTENCIOMETRO = A0;
 const int PIN_LED_VERDE     = 10;
