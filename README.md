@@ -56,10 +56,9 @@ Confira o vídeo explicando o funcionamento do sistema, incluindo a simulação:
 Este projeto demonstra como é possível criar um sistema simples e eficiente para monitoramento de níveis usando sensores analógicos e atuadores visuais/sonoros com Arduino.
 ---
 
+## 📄 Código Fonte
 
-##  Código Fonte 
----
-
+```cpp
 // Definição dos pinos
 const int PIN_POTENCIOMETRO = A0;
 const int PIN_LED_VERDE     = 10;
