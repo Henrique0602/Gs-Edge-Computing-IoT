@@ -36,7 +36,7 @@ As mensagens também são exibidas no monitor serial.
 ###  Simular no Tinkercad
 
 1. Acesse o link abaixo para abrir o projeto:  
-   🔗 [[Acessar no Tinkercad](https://www.tinkercad.com/things/SEU-LINK-AQUI)](https://www.tinkercad.com/things/5sN9M0tuMXQ-gs-1semestre)
+   🔗 [[Acessar no Tinkercad](https://www.tinkercad.com/things/5sN9M0tuMXQ-gs-1semestre)]
 
 2. Cole o código que esta no fim da documentação. Para isso, clique no botão código e copie e cole o código na área.
 
@@ -47,7 +47,7 @@ As mensagens também são exibidas no monitor serial.
 ##  Vídeo demonstrativo
 
 Confira o vídeo explicando o funcionamento do sistema, incluindo a simulação:  
-📺 [Assistir no YouTube](https://youtube.com/SEU-LINK-AQUI)
+📺 [Assistir no YouTube](https://youtu.be/HOKtDr3tVdQ?si=AZICM33jBDFCj005)
 
 ---
 
