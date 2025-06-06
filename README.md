@@ -67,7 +67,6 @@ const int PIN_LED_AMARELO   = 11;
 const int PIN_LED_VERMELHO  = 12;
 const int PIN_BUZZER        = 5;
 
-
 void setup() {
   // Configura os pinos dos LEDs e do buzzer como saída
   pinMode(PIN_LED_VERDE, OUTPUT);
@@ -119,3 +118,4 @@ void loop() {
   // Pequeno atraso para estabilidade da leitura
   delay(200);
 }
+
